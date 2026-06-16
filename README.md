@@ -105,7 +105,5 @@ https://localhost:7038/filter-prices
 [75, 90, 150]
 
 ```
-### How to add this to your project right now:
-1. In Visual Studio, go to your **Solution Explorer** on the right side.
-2. Look for a file named `README.md`. (If it's not there, right-click your project name -> **Add** -> **New Item** -> choose a Text File and name it `README.md`).
-3. Paste this text inside, save the file, and then look at your Git changes tab to push it up to your GitHub repository! 
+### Author:
+Jahnvi Srivastava
