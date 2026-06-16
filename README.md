@@ -104,7 +104,6 @@ https://localhost:7038/filter-prices
 ```json
 [75, 90, 150]
 
----
 ```
 ### How to add this to your project right now:
 1. In Visual Studio, go to your **Solution Explorer** on the right side.
