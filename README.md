@@ -196,7 +196,4 @@ Through this project, I learned:
 
 ⭐ If you found this project useful, feel free to star the repository!
 
----
-
-### Made with ❤️ by Jahnvi Srivastava
 
